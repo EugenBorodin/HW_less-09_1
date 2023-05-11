@@ -1,0 +1,1 @@
+const getElementByIndex = (array, index) => array[index];
